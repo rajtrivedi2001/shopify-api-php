@@ -1,0 +1,22 @@
+{
+	"name" : "shopify/src",
+	"description" : "API For Sohpify, PHP",
+	"keywords" : ["shopify", "php"],
+	"type" : "library",
+	"homepage" : "https://github.com/robbybugatti/shopify-api-php",
+	"license" : "none",
+	"authors" : [
+		{
+			"name" : "IHS Digital",
+			"homepage": "https://github.com/robbybugatti/shopify-api-php"
+		}
+	],
+	"require" : {
+		"php": ">=5.4.0"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"Shopify\\": "src/Shopify/"
+		}
+	}
+}
