@@ -5,6 +5,7 @@
 	"type" : "library",
 	"homepage" : "https://github.com/robbybugatti/shopify-api-php",
 	"license" : "none",
+	"version" : "1.0",
 	"authors" : [
 		{
 			"name" : "IHS Digital",
